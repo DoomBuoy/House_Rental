@@ -1,7 +1,7 @@
 # House_Rental
 
 
-![House Rental](data\interim\maxresdefault.jpg)
+![House Rental](https://i.ytimg.com/vi/Uu1r4zay0iw/maxresdefault.jpg)
 # Aim:
 This repository contains a comprehensive data science project focused on predicting rental prices for residential properties. It includes data exploration, feature engineering, model development, and evaluation using Python and Jupyter Notebooks. The workflow demonstrates best practices in data cleaning, feature selection, and performance assessment with real-world rental datasets.
 
