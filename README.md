@@ -1,4 +1,8 @@
 # House Rental
+<div align="center">
+    <img src="https://drive.google.com/file/d/13PfGUSiIsdAtNiEbI3NHf2FGalP8RsCa/view?usp=sharing" alt="PCOS Detection Logo" height="220">
+</div>
+
 # Aim:
 This repository contains a comprehensive data science project focused on predicting rental prices for residential properties. It includes data exploration, feature engineering, model development, and evaluation using Python and Jupyter Notebooks. The workflow demonstrates best practices in data cleaning, feature selection, and performance assessment with real-world rental datasets.
 
