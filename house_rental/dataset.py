@@ -5,7 +5,10 @@ from tqdm import tqdm
 import typer
 
 from house_rental.config import PROCESSED_DATA_DIR, RAW_DATA_DIR
-
+import os
+os.system('poetry update')
+os.system('poetry install')
+os.system('poetry lock')
 app = typer.Typer()
 
 
