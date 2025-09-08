@@ -9,7 +9,13 @@ import os
 os.system('poetry update')
 os.system('poetry install')
 os.system('poetry lock')
-app = typer.Typer()
+
+
+
+# Get the absolute path to the project root
+project_root = Path(__file__).resolve().parent.parent
+processed_dir = project_root / 'data' / 'processed'
+processed_dir.mkdir(parents=True, exist_ok=True)
 
 
 @app.command()
